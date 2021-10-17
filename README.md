@@ -1,3 +1,3 @@
 # Portafolio-web-Agustin-Muchutti
 
-#proyecto de portafolio web para informatorio 2021 
+#Proyecto de Portafolio personal web para informatorio 2021, "Especializacion en Tecnologias de Desarrollo"
